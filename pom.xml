@@ -458,9 +458,7 @@
             <url>http://18.171.181.78:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
-            <id>
-                <maven-snapshots>
-            </id>
+            <id>maven-snapshots</id>
             <url>http://18.171.181.78:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
